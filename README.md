@@ -3,6 +3,6 @@
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Javscript React Framework
 - 👯 I use  daily: Javascript, html, css, nodejs , react,postgres.
-- 📫 Reach me: twitter.com/im_withjosh
+- 📫 Reach me: https://twitter.com/im_withjosh
 - ⚡ Fun fact: I am a terrible dancer
 
